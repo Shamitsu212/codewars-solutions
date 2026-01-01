@@ -1,6 +1,7 @@
 # codewars-solutions
 
 В этом репозитории собраны мои решения задач с платформы [Codewars](https://www.codewars.com/).
+
 [Мой профиль на платформе Codewars](https://www.codewars.com/users/Shamitsu212)
 
 ## О репозитории
