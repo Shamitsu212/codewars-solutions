@@ -1,0 +1,1 @@
+const grow = (x) => x.reduce((a, e) => a  * e, 1)
