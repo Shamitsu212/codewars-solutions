@@ -1,0 +1,1 @@
+const combat = (health, damage) => Math.max(0, health - damage);
